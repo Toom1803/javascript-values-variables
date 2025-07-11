@@ -2,5 +2,7 @@
 let celsius = 30;
 
 // Start coding here;
+let tempConvers = (celsius*1.8)+32;
+let fahrenheit = tempConvers;
 
-let fahrenheit;
+
